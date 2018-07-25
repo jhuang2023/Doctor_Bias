@@ -4,6 +4,7 @@
 Applied statistical modeling and NLP methods to analyze and extract quantitative data from textual content, to find whether the patient’s expectation and evaluation standards differ for male and female doctors
 
 ### Content
+(Code: W2v_final_bias_detect 0516.ipynb)
 - Prepare data and clarify gender
   - Import raw data and concatenate reviews
   - Predict gender using doctor's name
