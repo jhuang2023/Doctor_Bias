@@ -3,6 +3,7 @@
 ### Detect Implicit Gender Bias in Online Patient Reviews Using Machine Learning
 Applied statistical modeling and NLP methods to analyze and extract quantitative data from textual content, to find whether the patient’s expectation and evaluation standards differ for male and female doctors
 
+
 ### Content
 (Code: W2v_final_bias_detect 0516.ipynb)
 - __Prepare data and clarify gender__
